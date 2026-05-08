@@ -31,17 +31,11 @@ I design, maintain, and troubleshoot large-scale Cisco networks with a focus on 
 
 ## 🧰 Featured Projects
 
-### **Cisco ARP/MAC/OUI Lookup Tool**  
+### **SwitchPort-Resolver**  
 Multi-device GUI parser that correlates ARP and MAC address tables, identifies vendors, and accelerates troubleshooting across multiple Cisco platforms.
 
 ### **PC Hardware Report Generator**  
 PowerShell-based offline analyzer that collects CPU, GPU, memory, disk, and system details into a structured HTML report.
-
-### **Cisco MAC OUI Lookup**  
-Standalone GUI utility for mapping OUIs to vendors offline, enabling rapid MAC-based investigations.
-
-### **MD-Combiner**  
-Lightweight script that automates Markdown merging for documentation workflows.
 
 ---
 
